@@ -10,7 +10,7 @@ const getWeather = () => {
 }; 
 ```
 ## Here are some references that are helping me with my project  
-* [Google](https://www.google.com))
+* [Google](https://www.google.com)
 * [Udemy Course](udemy.com/course/react-the-complete-guide-incl-redux/)
 * [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507)
 * [The Road To React](https://www.amazon.com/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_1?crid=23YQT7EO3QOF2&keywords=The+Road+to+react&qid=1699074870&s=books&sprefix=the+road+to+reac%2Cstripbooks%2C135&sr=1-1)
