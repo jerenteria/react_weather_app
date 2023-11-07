@@ -8,7 +8,7 @@
 
 .App {  
   background:linear-gradient(to right, #00AAFF, #00FF6C);
-  padding: 30px;
+  padding: 41px;
 }
 
 .Card {
@@ -45,3 +45,4 @@
 .temp {
   font-size: 50px;
 }
+
