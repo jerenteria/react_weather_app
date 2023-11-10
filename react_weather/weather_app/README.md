@@ -1,7 +1,8 @@
 # Hello and Welcome to my React App
 I am currently working on this React app to help strengthen my skills fetching _APIs_** with _JavaScript_**.
 My main goal is to create an app where the user can enter a city name and get the current weather  
-in that city.
+in that city.  
+Working on this project will also help me learn how to implement conditional images to an app.
 
 This will be possible using the fetch function in JavaScript.
 ```javascript
